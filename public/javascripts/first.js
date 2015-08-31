@@ -1,0 +1,1 @@
+function hello(){console.log("world")}function hello(){console.log("world")}function hello(){console.log("world")}function glenn(){console.log("everything is awesome!")}hello();
